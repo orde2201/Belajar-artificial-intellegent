@@ -5,16 +5,16 @@ AI layaknya manusia yang berpikir dan memutuskan sesuatu berdasarkan informasi y
 
 ### Dalam AI, ada empat bidang utama (field) yang menjelaskan cara kerja dan tujuannya:
 
-#### Thinking Humanly
+#### 1. Thinking Humanly
 → AI berusaha meniru cara manusia berpikir, seperti meniru proses belajar, mengingat, dan memahami sesuatu.
 
-#### Acting Humanly
+#### 2. Acting Humanly
 → AI meniru perilaku manusia, misalnya berbicara, merespons, atau berinteraksi seperti manusia sungguhan.
 
-#### Thinking Rationally
+#### 3. Thinking Rationally
 → AI berpikir secara logis untuk menemukan kesimpulan yang benar berdasarkan aturan atau data.
 
-#### Acting Rationally
+#### 4. Acting Rationally
 → AI bertindak dengan cara paling efisien dan masuk akal agar bisa mencapai hasil terbaik dalam situasi tertentu.
 
 
