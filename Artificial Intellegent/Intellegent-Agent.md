@@ -10,3 +10,11 @@ Prosesnya : sensor menagkap kondisi lingkunganya, kemudian diproses di otak agen
 
 contohnya : mesin penyedot debu otomatis <br>
 Pertama mesin akan bergerak ke arah manapun, jika sensor mendeteksi ada kotoran maka akan di kirim ke otak agent,kemudia setelah itu otak akan menyuruh actuator untuk menyedot kotoran
+
+---
+## Cara Merancang agent yang baik
+Agent yang baik adalah agent yang menghasilkan hasil yang rasional
+Untuk menilai suatu agent apakah baik dapat dilakukan dengan :
+1. Performance messure
+2. 
+### 1. PEAS
