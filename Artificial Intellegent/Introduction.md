@@ -2,6 +2,7 @@
 AI (Artificial Intelligence) adalah program atau sistem yang bisa mengambil kesimpulan dari data yang tersedia.
 AI layaknya manusia yang berpikir dan memutuskan sesuatu berdasarkan informasi yang ia miliki
 
+
 ### Dalam AI, ada empat bidang utama (field) yang menjelaskan cara kerja dan tujuannya:
 
 #### Thinking Humanly
@@ -15,6 +16,7 @@ AI layaknya manusia yang berpikir dan memutuskan sesuatu berdasarkan informasi y
 
 #### Acting Rationally
 → AI bertindak dengan cara paling efisien dan masuk akal agar bisa mencapai hasil terbaik dalam situasi tertentu.
+
 
 Jika salah satu dari empat hal ini terpenuhi, maka sistem tersebut bisa dianggap sebagai bentuk AI.
 
