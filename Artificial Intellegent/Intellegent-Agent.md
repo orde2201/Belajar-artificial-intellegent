@@ -4,7 +4,7 @@ Intelegent agent adalah Sebuah AI yang memiliki sensor dan actuator yang digunak
 
 ---
 ## Cara kerja Intellegent agent
-<img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/cb91abf5-1d38-4f68-a0e1-bf9095da97b9" />
+<img width="650" height="232" alt="image" src="https://artificialintelligence.readthedocs.io/en/latest/_images/Fig2.1.png" />
 
 Prosesnya : sensor menagkap kondisi lingkunganya, kemudian diproses di otak agent setelah itu actuator akan mengeluarkan reaksi
 contohnya mesin penyedot debu otomatis
